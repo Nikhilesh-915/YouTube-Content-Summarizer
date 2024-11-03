@@ -26,7 +26,7 @@ Streamlit: Creates an interactive web interface for displaying video summaries t
 Installation
 
 Clone the repository
-git clone [https://github.com/yourusername/youtube-content-summarizer.git](https://github.com/yourusername/youtube-content-summarizer.git)
+git clone (https://github.com/Nikhilesh-915/YouTube-Content-Summarizer.git)
 Navigate to the project directory
 cd youtube-content-summarizer
 Install dependencies
